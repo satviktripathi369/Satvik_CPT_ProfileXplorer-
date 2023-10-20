@@ -8,7 +8,7 @@
 
 
 ```sh
-git clone [https://github.com/jirihofman/portfolio.git](https://github.com/satviktripathi369/Satvik_CPT_ProfileXplorer-.git
+git clone (https://github.com/satviktripathi369/Satvik_CPT_ProfileXplorer-.git
 )
 cd portfolio
 ```
